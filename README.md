@@ -58,5 +58,7 @@ Ethereum LOL
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments & Inspirations
+- Flintrock is a command-line tool for launching Apache Spark clusters: https://github.com/nchammas/flintrock
+- [Danny Luo](https://github.com/PiercingDan/spark-Jupyter-AWS) for the tutorial setting up spark clusters on AWS
 
 
