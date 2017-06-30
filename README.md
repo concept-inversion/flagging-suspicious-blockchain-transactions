@@ -29,13 +29,13 @@ Will better explain the questions guiding analyses and a summary of the methods 
 - Python 3.5
 - Spark Python API (PySpark)
 - Sci-kit Learn
-- Graphistry
+- PyGraphistry
 
 Might include step by step series of examples that tell you have to get a development env running
 
-## Visuals [In Development]
-TBA
+## Visuals
 
+[![Watch my PyGraphistry Visual Demo](https://img.youtube.com/vi/VJgRxGeKTIw/0.jpg)](https://youtu.be/VJgRxGeKTIw)
 
 ## Conclusions
 More to come.  Will explain insights gleaned, model evaluation, or patterns in visualization.
