@@ -33,8 +33,9 @@ Will better explain the questions guiding analyses and a summary of the methods 
 
 Might include step by step series of examples that tell you have to get a development env running
 
-## Visuals
+## Visual
 
+#### [Watch my PyGraphistry Visual Clustering Demo](https://youtu.be/VJgRxGeKTIw)
 [![Watch my PyGraphistry Visual Demo](https://img.youtube.com/vi/VJgRxGeKTIw/0.jpg)](https://youtu.be/VJgRxGeKTIw)
 
 ## Conclusions
