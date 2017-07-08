@@ -2,7 +2,7 @@ Python  | Numpy | Pandas | Statsmodels | Sci-Kit Learn
 --------|-----|-----|---------|------
 [![PyPI](https://img.shields.io/badge/python-3.5-blue.svg)]() | [![PyPI version](https://badge.fury.io/py/numpy.svg)](https://badge.fury.io/py/numpy) | [![PyPI version](https://badge.fury.io/py/pandas.svg)](https://badge.fury.io/py/pandas) | [![PyPI version](https://badge.fury.io/py/statsmodels.svg)](https://badge.fury.io/py/statsmodels) |  [![PyPI version](https://badge.fury.io/py/scikit-learn.svg)](https://badge.fury.io/py/scikit-learn)
 
-**Clean notebooks to be uploaded**
+**Clean notebooks to be uploaded later**
 
 # Identifying Suspicious Transactions on the Bitcoin Transaction Network
 Used Spark, Neo4j to train a clustering model for anomaly classification to detect suspicious transactions relative to known rogue transactions on the Bitcoin network (through 2014).
@@ -46,13 +46,21 @@ Might include step by step series of examples that tell you have to get a develo
 More to come.  Will explain insights gleaned, model evaluation, or patterns in visualization.
 
 ```
-Give an example
+- ML on the blockchain can reduce the gap between fraud detection and response.
+- Unsupervised clustering is ideal for dynamic threats.
+- There is potential for using graphDBs and Spark to characterize fraud at scale.
+- As blockchain technology becomes more trustworthy, it will disrupt and modernize many industries with unique vulnerablities in their data infrastructure.
 ```
 
 ## Future Work
-
-Ethereum LOL
-
+- play more with Neo4j.
+- query and compute the expansive feature list for the entire blockchain as exemplified in the initial paper.
+- look up other alorithms and processes ideal for graph databases.
+- improve on the generalizability and reduce overfitting in my clustering model.
+- validate the model against more recent instances of fraud and theft.
+- look into alternatives to PyGraphistry (like Linkurious).
+- Visualize the expanded blockchain over a wider time horizon.
+- Possibly expand this work to Ethereum.
 
 ## Author
 
