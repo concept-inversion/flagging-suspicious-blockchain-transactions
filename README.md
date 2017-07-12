@@ -18,9 +18,6 @@ Despite the promising potential of the blockchain to enable the transfer of valu
 
 Will better explain the questions guiding analyses and a summary of the methods involved.
 
-- TF-IDF Vectorizer --> Multinomial Naive Bayes Classifier
-- CountVectorizer --> HDP --> LDA --> Clustering & Topic Modeling
-
 
 ## Tool Stack (more to come)
 
